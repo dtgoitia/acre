@@ -7,6 +7,8 @@ verify_ssl = true
 flake8 = "*"
 
 [packages]
+django-rest-framework = "*"
+django = "*"
 
 [requires]
 python_version = "3.7"
